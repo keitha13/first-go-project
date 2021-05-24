@@ -1,3 +1,6 @@
 2021/05/20 10:05:03 main.go:15: test
 2021/05/20 10:05:39 main.go:15: test
 2021/05/20 13:01:57 users.go:57: near "where": syntax error
+2021/05/24 11:54:22 users.go:146: no such table: session
+2021/05/24 11:54:32 users.go:146: no such table: session
+2021/05/24 11:56:18 users.go:146: no such column: uudi
